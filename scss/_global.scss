@@ -1,0 +1,30 @@
+body{
+    background-color: $white;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+}
+
+img{
+    height: 40%;
+    width: 40%;
+    animation: change-opacity 10s infinite;
+}
+
+@keyframes change-opacity{
+    from{
+        opacity: 0;
+    }to{
+        opacity: 1;
+    }
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 80px;
+    margin-bottom: -20px;
+}

@@ -1,0 +1,5 @@
+/*!
+ * Start Bootstrap -  v1.0.0 (https://github.com/Matheus1714/danganronpa#readme)
+ * Copyright 2013-2020 Matheus S M Mota
+ * Licensed under ISC (https://github.com/BlackrockDigital/danganronpa/blob/master/LICENSE)
+ */body{background-color:#fff;text-align:center;font-family:'Permanent Marker',cursive}img{height:40%;width:40%;-webkit-animation:change-opacity 10s infinite;animation:change-opacity 10s infinite}@-webkit-keyframes change-opacity{from{opacity:0}to{opacity:1}}@keyframes change-opacity{from{opacity:0}to{opacity:1}}footer{display:flex;justify-content:center;align-items:center}h1{font-size:80px;margin-bottom:-20px}.container{display:flex;justify-content:center;align-items:center}#icon{height:100px;width:100px}
